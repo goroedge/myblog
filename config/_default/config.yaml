@@ -33,7 +33,7 @@ permalinks:
 
 module:
   imports:
-    - path: github.com/razonyang/hugo-theme-bootstrap
+    - path: hugo-theme-bootstrap
 #   proxy: https://goproxy.cn
 
 # services:
@@ -46,3 +46,5 @@ markup:
     lineNos: true
     noClasses: false
     lineNumbersInTable: false
+
+theme: hugo-theme-bootstrap
